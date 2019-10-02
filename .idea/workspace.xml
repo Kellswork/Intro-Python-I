@@ -2,24 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83c8e271-7848-4a7c-9e84-f576d3b0714c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Intro-Python-I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/00_hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_bignum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_bignum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/03_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/04_printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/04_printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/05_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/06_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/06_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/08_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/08_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/09_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/09_dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/10_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/11_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12_scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/12_scopes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13_file_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/13_file_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/15_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/15_classes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -32,6 +36,7 @@
   <component name="ProjectId" id="1RYZ2gtPEELb1vQwceXobOMnnIg" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,8 +50,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07_slices">
-    <configuration name="03_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.15_classes">
+    <configuration name="10_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/03_modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/10_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_printing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_args" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/04_printing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/11_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_scopes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/05_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/12_scopes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_file_io" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/06_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/13_file_io.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_slices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/07_slices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/15_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_slices" />
-        <item itemvalue="Python.06_tuples" />
-        <item itemvalue="Python.05_lists" />
-        <item itemvalue="Python.04_printing" />
-        <item itemvalue="Python.03_modules" />
+        <item itemvalue="Python.15_classes" />
+        <item itemvalue="Python.13_file_io" />
+        <item itemvalue="Python.12_scopes" />
+        <item itemvalue="Python.11_args" />
+        <item itemvalue="Python.10_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +184,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
